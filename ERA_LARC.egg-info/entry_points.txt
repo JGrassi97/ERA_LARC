@@ -1,0 +1,2 @@
+[console_scripts]
+ERA_LARC = ERA_LARC.main:main
