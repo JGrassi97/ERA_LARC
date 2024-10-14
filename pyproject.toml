@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ERA_LARC"
+version = "0.1"
+description = ""
+readme = ""
+authors = [
+    {name = "Jacopo Grassi", email = "jacopo.grassi@polito.it"}
+]
+
+# Optional: Add more metadata if needed
+# dependencies = ["package1", "package2"]
+
+[project.scripts]
+ERA_LARC = "ERA_LARC.main:main"
