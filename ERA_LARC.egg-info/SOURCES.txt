@@ -1,9 +1,0 @@
-README.md
-setup.py
-ERA_LARC/__init__.py
-ERA_LARC/main.py
-ERA_LARC.egg-info/PKG-INFO
-ERA_LARC.egg-info/SOURCES.txt
-ERA_LARC.egg-info/dependency_links.txt
-ERA_LARC.egg-info/entry_points.txt
-ERA_LARC.egg-info/top_level.txt
