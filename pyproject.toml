@@ -15,4 +15,4 @@ authors = [
 # dependencies = ["package1", "package2"]
 
 [project.scripts]
-ERA_LARC = "ERA_LARC.main:main"
+ERA_LARC = "src.ERA_LARC.main:main"
