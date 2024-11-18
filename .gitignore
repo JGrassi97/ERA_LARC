@@ -1,3 +1,5 @@
 ERA_LARC.egg-info/
 build/
 notebooks/era5_zarr_catalog/
+
+nohup.out
